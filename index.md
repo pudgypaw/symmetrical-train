@@ -5,6 +5,6 @@
 var myVar = "Hello, world!";
 ```
 
-/code javascript
-var myVar = "hello,world";
-/code
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
